@@ -1,0 +1,15 @@
+/* .container { 
+  height: 100vh;
+  border: solid black;
+}
+
+.vertical-center {
+  position: absolute;
+  margin-top: 50vh;
+  transform: translate(0, -50%);
+  text-align: center;
+} */
+
+body {
+  background-image: url('pinkbackground.jpg');
+}
